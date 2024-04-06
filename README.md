@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SwapanRaj01maveric
+- 👋 Hi, I’m @SwapanRaj
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python, pyhton libraries and ML
 - 💞️ I’m looking to collaborate on data science field and projects
