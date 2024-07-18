@@ -1,15 +1,13 @@
 
 # Hi there 👋
 
-I'm [Swapan Raj], a passionate data scientist and machine learning enthusiast. I love exploring data, building models, and creating impactful data-driven solutions. My expertise lies in:
+I'm Swapan Raj, a passionate data scientist and machine learning enthusiast. I love exploring data, building models, and creating impactful data-driven solutions. My expertise lies in:
 
 - 📊 Data Analysis
 - 📈 Machine Learning
 - 🧠 Deep Learning
 - 🧮 Statistics
 - 💻 Python, R, SQL
-
-## 🛠️ Projects
 
 ### Linear Regression Comprehensive Guide
 
